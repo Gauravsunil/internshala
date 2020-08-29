@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(241, 243, 214);
+}
+
+#banner-image{
+       padding-top: 65px;
+       padding-bottom: 50px;
+       text-align: center;
+       color: #f8f8f8;
+       background: url(./images/homeimage.jpg) no-repeat center center;
+       background-size: cover; }
+#banner-content{
+    position: relative;
+    padding-bottom: 6%;
+    margin-left: 20%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+.box{
+  background-color: rgb(219, 221, 224);
+  border-radius: 10px;
+  margin-top:5px;
+   padding:5px
+}
+
